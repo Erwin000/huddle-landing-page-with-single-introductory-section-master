@@ -23,6 +23,7 @@ body {
 }
 .box2 {
     position: relative;
+    padding: 100px;
 }
 .box2 p:first-child {
     width: 450px;
@@ -31,7 +32,7 @@ body {
     font-weight: 600;
     line-height: 1.6;
     word-spacing: 2px;
-    margin: 185px 0 25px;
+    margin: 90px 0 25px;
 }
 .box2 p:last-of-type {
     width: 460px;
